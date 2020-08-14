@@ -15,7 +15,7 @@
 | death_datetime |  |  |  |
 | race_concept_id | race | Map to standard OMOP concept |  |
 | ethnicity_concept_id | ethnic | Map to standard OMOP concept |  |
-| location_id |  |  |  |
+| location_id | Test |  |  |
 | provider_id |  |  |  |
 | care_site_id |  |  |  |
 | person_source_value |  |  |  |
